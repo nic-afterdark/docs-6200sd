@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ondqph.salamcuanwin.cfd/sitemap.xml
